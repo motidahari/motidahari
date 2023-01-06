@@ -14,13 +14,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moti-dahari/)](https://www.linkedin.com/in/moti-dahari)
 [![Gmail Badge](https://img.shields.io/badge/-motidaharii@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:motidaharii@gmail.com)](mailto:motidaharii@gmail.com)
 <a href="https://www.facebook.com/MotiDahari/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
-<a href="https://www.hackerrank.com/MotiDahari"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
 
 <h1> 🔬 My Stack:</h1>
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaSqript" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="node.js" height="40"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/>
