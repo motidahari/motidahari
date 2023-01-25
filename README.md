@@ -24,20 +24,20 @@
   <img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native" height="40"/>
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=61DAFB" alt="Node.js" height="40"/>
   <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="typescript" height="40"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=61DAFB" alt="css" height="40"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=61DAFB" alt="java" height="40"/>
-  <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=61DAFB" alt="python" height="40"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=61DAFB" alt="C" height="40"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB" alt="C++" height="40"/>
+  <img src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=61DAFB" alt="css" height="40"/>
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB" alt="java" height="40"/>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" alt="python" height="40"/>
+  <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB" alt="C" height="40"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB" alt="C++" height="40"/>
 
 </span>
 
 <h4 align="left">Data Bases:</h3>
 <span>
-    <img src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&logo=PostgreSQL5&logoColor=white" alt="PostgreSQL" height="40"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" height="40"/>
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" height="40"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=PostgreSQL5&logoColor=61DAFB" alt="PostgreSQL" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=61DAFB" alt="mySQL" height="40"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=61DAFB" alt="mongoDB" height="40"/>
+    <img src="https://img.shields.io/badge/firebase-4EA94B?style=for-the-badge&logo=firebase&logoColor=61DAFB" alt="firebase" height="40"/>
 
 </span>
 
@@ -46,11 +46,11 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?&style=for-the-badge&logo=aws3&logoColor=white" alt="AWS" height="40"/>
   <img src="https://img.shields.io/badge/CDK-FF9900?&style=for-the-badge&logo=cdk3&logoColor=white" alt="CDK" height="40"/>
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?&style=for-the-badge&logo=AWS Lambda3&logoColor=white" alt="AWS Lambda" height="40"/>
-  <img src="https://img.shields.io/badge/Amazon RDS-239120?&style=for-the-badge&logo=Amazon RDS3&logoColor=white" alt="Amazon RDS" height="40"/>
-  <img src="https://img.shields.io/badge/GraphQL-%23404d59.svg?style=for-the-badge&logo=GraphQL&logoColor=%2361DAFB" alt="graphQL" height="40"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="40"/>
-  <img src="https://img.shields.io/badge/MUI-239120?&style=for-the-badge&logo=MUI3&logoColor=white" alt="MUI" height="40"/>
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="40"/>
+  <img src="https://img.shields.io/badge/Amazon RDS-FF9900?&style=for-the-badge&logo=Amazon RDS3&logoColor=white" alt="Amazon RDS" height="40"/>
+  <img src="https://img.shields.io/badge/GraphQL-FF9900.svg?style=for-the-badge&logo=GraphQL&logoColor=%2361DAFB" alt="graphQL" height="40"/>
+  <img src="https://img.shields.io/badge/express.js-FF9900.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="40"/>
+  <img src="https://img.shields.io/badge/MUI-FF9900?&style=for-the-badge&logo=MUI3&logoColor=white" alt="MUI" height="40"/>
+  <img src="https://img.shields.io/badge/heroku-FF9900.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="40"/>
 
 </span>
 
